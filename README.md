@@ -20,18 +20,14 @@ Software developer passionate about creating elegant solutions to complex proble
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alani4837&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alani4837&theme=radical" alt="GitHub Streak" />
-</div>
+<!-- Activity Graph -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=alani4837&theme=github)
 
-## 🌟 Featured Projects
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alani4837&theme=radical)
 
-<div align="center">
-  <a href="https://github.com/alani4837/feest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alani4837&repo=[feest]&theme=radical" />
-  </a>
-</div>
+<!-- Language Stats -->
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alani4837&layout=compact&theme=radical)
 
 ## 🤝 Let's Connect
 
