@@ -28,8 +28,8 @@ Software developer passionate about creating elegant solutions to complex proble
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="[project-link]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alani4837&repo=[repo-name]&theme=radical" />
+  <a href="[https://github.com/alani4837/feest]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alani4837&repo=[feest]&theme=radical" />
   </a>
 </div>
 
