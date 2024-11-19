@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-Software developer passionate about creating elegant solutions to complex problems. I specialize in [your main technologies].
+Software developer passionate about creating elegant solutions to complex problems. I specialize in javascript(typescript), nextjs, python, mongodb, linux, cloud.
 
 ## 🛠️ Tech Stack
 
