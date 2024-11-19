@@ -28,7 +28,7 @@ Software developer passionate about creating elegant solutions to complex proble
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="[https://github.com/alani4837/feest]">
+  <a href="https://github.com/alani4837/feest">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=alani4837&repo=[feest]&theme=radical" />
   </a>
 </div>
@@ -36,7 +36,7 @@ Software developer passionate about creating elegant solutions to complex proble
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="[https://www.instagram.com/greek_tech_freak/]">
+  <a href="https://www.instagram.com/greek_tech_freak/">
     <img src="https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>  
 </div>
