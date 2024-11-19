@@ -20,12 +20,6 @@ Software developer passionate about creating elegant solutions to complex proble
 
 ## 📊 GitHub Stats
 
-<!-- Activity Graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=alani4837&theme=github)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alani4837&theme=radical)
-
 <!-- Language Stats -->
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alani4837&layout=compact&theme=radical)
 
