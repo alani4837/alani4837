@@ -25,13 +25,13 @@ Software developer passionate about creating elegant solutions to complex proble
 
 ## 🤝 Let's Connect
 
-<div align="center">
+<div align="center">  
+  <a href="https://www.shareflyt.xyz/">
+    <img src="https://img.shields.io/badge/shareflyt-0077B5?style=for-the-badge&logo=figshare&logoColor=white" />
+  </a>
   <a href="https://www.instagram.com/greek_tech_freak/">
     <img src="https://img.shields.io/badge/instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.shareflyt.xyz/">
-    <img src="https://img.shields.io/badge/shareflyt-0077B5?style=for-the-badge&logo=figshare&logoColor=white" />
-  </a>  
 </div>
 
 <div align="center">
